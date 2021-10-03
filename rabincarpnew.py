@@ -1,5 +1,4 @@
 d = 256
-
 # pat -> pattern
 # txt -> text
 # q -> A prime number
